@@ -1,6 +1,9 @@
 # warvra 21
 
-ver 2.3
+ver 2.12
+- Various updates following WARVRA meeting on the 12th of January 2024
+
+ver 2.11
 - Tightened up security
 
 ver 2.10
